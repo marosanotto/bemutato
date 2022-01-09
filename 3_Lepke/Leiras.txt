@@ -1,8 +1,14 @@
-Középszintû érettségi feladatsor
-2006 májusában
+Kï¿½zï¿½pszintï¿½ ï¿½rettsï¿½gi feladatsor
+2006 mï¿½jusï¿½ban
 
-1. Szövegszerkesztés
-2. prezentációkészítés
-3. weblapszerkesztés
-4. táblázatkezelés
-5. adatbázis-kezelés
+1. Szï¿½vegszerkesztï¿½s
+2. prezentï¿½ciï¿½kï¿½szï¿½tï¿½s
+3. weblapszerkesztï¿½s
+4. tï¿½blï¿½zatkezelï¿½s
+5. adatbï¿½zis-kezelï¿½s
+
+Az emelt szintÅ± Ã©rettsÃ©gi
+1. DokumentumkÃ©szÃ­tÃ©s
+2. TÃ¡blÃ¡zatkezelÃ©s
+3. AdatbÃ¡zis-kezelÃ©s
+4. ProgramozÃ¡s
