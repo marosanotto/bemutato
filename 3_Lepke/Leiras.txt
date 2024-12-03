@@ -12,3 +12,4 @@ Az emelt szintű érettségi
 2. Táblázatkezelés
 3. Adatbázis-kezelés
 4. Programozás
+5. Szóbeli vizsgarész a vizsgabizottság előtt
